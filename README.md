@@ -4,7 +4,7 @@
   En este repositorio encontrarás toda la información que necesitas para comprender la primera sesión del Workshop, contarás con links externos, una presentación y unos códigos de prueba con su explicación. ¡Iniciemos!
 </p>
 <h3 align="center">
-  
+  Polkadot
 </h3>
 <p>
   
