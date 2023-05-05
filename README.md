@@ -12,5 +12,6 @@
 </p>
 <p>
   En su sitio web encontrarás toda la información relacionada con este protocolo: <a href="https://polkadot.network/">Polkadot website</a>. <br>
-  Además, en <a href="https://polkaverse.com/">Polkaverse</a> encontrarás más guías que te pueden servir.
+  Además, en <a href="https://polkaverse.com/">Polkaverse</a> encontrarás más guías que te pueden servir. <br>
+  Para finalizar, si deseas aprender más sobre las subastas y los slots en Polkadot, visita este sitio: <a href="https://www.kraken.com/es-es/learn/parachain-auctions">Subastas y slots en Polkadot</a>.
 </p>
