@@ -18,3 +18,9 @@
 <h3 align="center"><img src="https://github.com/Juminstock/astar_workshop1/blob/main/Astar_portrait.png?raw=true" width="90">
   Astar Network
 </h3>
+<p>
+  <a href="https://astar.network/">Astar Network</a> es la infraestructura para la creación de contratos inteligentes en Polkadot, tiene grandes ventajas como la compatiblidad con Wasm (Web Assembly) y con la EVM (Ethereum Virtual Machine) a través de la XVM. Astar es la blockchain más popular en toda Japón, trabaja de la mano con grandes compañías como: Sonic, Microsoft, Toyota y entre otras. Construir en Astar Network tiene muchos beneficios, acá te comparto un artículo con una de sus mayores ventajas: <a href="https://medium.com/p/259a5fcc38e9">#Build2Earn</a> & <a href="https://medium.com/astar-network/build2earn-benefits-of-dapp-staking-and-how-to-dapp-stake-on-astar-d402085bef2b">#Build2Earn 2</a>.
+</p>
+<h3 align="center">
+  Substrate_
+</h3>
