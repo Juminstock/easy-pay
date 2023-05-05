@@ -19,9 +19,26 @@
   Astar Network
 </h3>
 <p>
-  <a href="https://astar.network/">Astar Network</a> es la infraestructura para la creación de contratos inteligentes en Polkadot, tiene grandes ventajas como la compatiblidad con Wasm (Web Assembly) y con la EVM (Ethereum Virtual Machine) a través de la XVM. Astar es la blockchain más popular en toda Japón, trabaja de la mano con grandes compañías como: Sonic, Microsoft, Toyota y entre otras. Construir en Astar Network tiene muchos beneficios, acá te comparto un artículo con una de sus mayores ventajas: <a href="https://medium.com/p/259a5fcc38e9">#Build2Earn</a> & <a href="https://medium.com/astar-network/build2earn-benefits-of-dapp-staking-and-how-to-dapp-stake-on-astar-d402085bef2b">#Build2Earn 2</a>. Este último punto va muy relacionado con <a href="https://astarpass.astar.network/#/register">Astar Pass</a> el cual es el programa que permite hacer "staking" en las DApps que desees apoyar, visita los anteriores links para que te enteres más. <br>
+  <a href="https://astar.network/">Astar Network</a> es la infraestructura para la creación de contratos inteligentes en Polkadot, tiene grandes ventajas como la compatiblidad con Wasm (Web Assembly) y con la EVM (Ethereum Virtual Machine) a través de la XVM. Astar es la blockchain más popular en toda Japón, trabaja de la mano con grandes compañías como: Sonic, Microsoft, Toyota y entre otras. Construir en Astar Network tiene muchos beneficios, acá te comparto un artículo con una de sus mayores ventajas: <a href="https://medium.com/p/259a5fcc38e9">#Build2Earn</a> & <a href="https://medium.com/astar-network/build2earn-benefits-of-dapp-staking-and-how-to-dapp-stake-on-astar-d402085bef2b">#Build2Earn 2</a>. Este último punto va muy relacionado con <a href="https://astarpass.astar.network/#/register">Astar Pass</a> el cual es el programa que permite hacer "staking" en las DApps que desees apoyar, visita los anteriores links para que te enteres más. <br><br> 
   Para obtener información financiera de Astar Network, visita este link: <a href="https://defillama.com/chain/Astar?tvl=true">Astar blockchain information</a>.
 </p>
 <h3 align="center">
   Substrate_
 </h3>
+<p>
+  La página oficial de <a href="https://substrate.io/">Substrate_</a> brinda toda la información necesaria para usarla y entenderla. En resumen, Substrate es un Framework que te permite crear blockchains configurables a tus necesidades. El principal funcionamiento de Substrate es su función mediante los módulos, o "pallets" como se le dicen en su ecosistema. Para aprender más sobre ello, te comparto acá un artículo muy completo: <a href="https://www.parity.io/blog/what-is-paritys-ink">Substrate e Ink!</a>.
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
