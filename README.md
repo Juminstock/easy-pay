@@ -28,10 +28,18 @@
 <p>
   La página oficial de <a href="https://substrate.io/">Substrate_</a> brinda toda la información necesaria para usarla y entenderla. En resumen, Substrate es un Framework que te permite crear blockchains configurables a tus necesidades. El principal funcionamiento de Substrate es su función mediante los módulos, o "pallets" como se le dicen en su ecosistema. Para aprender más sobre ello, te comparto acá un artículo muy completo: <a href="https://www.parity.io/blog/what-is-paritys-ink">Substrate e Ink!</a>.
 </p>
-
-
-
-
+<h3 align="center">
+  Ink!
+</h3>
+<p>
+  <a href="https://use.ink/">Ink!</a> es el lenguaje de programación de Substrate para la creación de contratos inteligentes y es el que estaremos usando en todo este workshop. Acá te comparto el repositorio más completo para entender y practicar Ink!, Substrate y su ecosistema: <a href="https://github.com/AstarNetwork/aWASoMe">aWASoMe repositorio</a>. 
+</p>
+<h3 align="center">
+  Presentación para el workshop
+</h3>
+<p>
+  Finalmente, acá te comparto un link para observar toda la presentación de esta primera sesión del workshop: <a href="https://drive.google.com/file/d/1S_37N5unuLfNBD5YX7M25c4Lx8VnIgEm/view?usp=sharing">Workshop presentatio</a>.
+</p>
 
 
 
