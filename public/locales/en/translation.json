@@ -7,20 +7,19 @@
 		"secondary_button_text": "Academia de Astar Network"
 	},
 	"hero_animated": {
-		"secondary_button_text": "Go to base version"
+		"secondary_button_text": "Ir a la versión principal"
 	},
 	"header": {
-		"features": "Features",
-		"pricing": "Pricing",
-		"blog": "Blog",
-		"contact": "Contacts",
-		"primary_button_text": "Download",
-		"secondary_button_text": "Login"
+		"pricing": "Eventos",
+		"blog": "Comunidad",
+		"contact": "Equipo",
+		"primary_button_text": "Conectar billetera",
+		"secondary_button_text": "Registrate aquí"
 	},
 	"features": {
-		"learn_more": "Learn more",
-		"title": "Features",
-		"subtitle": "All the tools you need",
+		"learn_more": "Lee más",
+		"title": "Nuestra misión",
+		"subtitle": "¿Por qué Latinoamérica?",
 		"description": "Astro is a high-performance static site builder that seamlessly integrates with Tailwind CSS and Alpine.js. It allows you to build websites with ease and speed, without sacrificing on performance.",
 		"astro": "Astro is the all-in-one web framework designed for speed. Pull your content from anywhere and deploy everywhere, all powered by your favorite UI components and libraries.",
 		"alpine": "Alpine is a rugged, minimal tool for composing behavior directly in your markup. Think of it like jQuery for the modern web. Plop in a script tag and get going.",
