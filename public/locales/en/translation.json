@@ -32,18 +32,18 @@
 		"articlegenerator": "Use AI to generate your articles posts"
 	},
 	"faq": {
-		"title": "Frequently Asked Questions"
+		"title": "Preguntas frecuentes"
 	},
 	"newsletter": {
-		"title": "Subscribe to our newsletter",
-		"subtitle": "Get notified for all updates",
-		"input_placeholder": "Enter your email",
-		"button_text": "Subscribe",
-		"privacy": "We care about the protection of your data. Read our",
-		"privacy_link": "Privacy Policy."
+		"title": "Subscríbete al boletín",
+		"subtitle": "Obten notificaciones y actualizaciones",
+		"input_placeholder": "Correo electrónico",
+		"button_text": "Subscríbete",
+		"privacy": "Cuidamos su privacidad. Lee nuestra",
+		"privacy_link": "Política aquí."
 	},
 	"blog": {
-		"prev": "Prev",
-		"next": "Next"
+		"prev": "Anterior",
+		"next": "Siguiente"
 	}
 }

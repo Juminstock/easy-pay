@@ -12,8 +12,8 @@ export const get = async () => {
 	});
 
 	return rss({
-		title: `Astros`,
-		description: "Astros - Starter Template for Astro with Tailwind CSS",
+		title: `Astar LATAM`,
+		description: "La primera DAO del ecosistema de Astar Network en LATAM",
 		site: import.meta.env.SITE,
 
 		items: posts.map((post) => ({

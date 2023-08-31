@@ -35,7 +35,7 @@ export default defineConfig({
 				public_folder: "/images",
 				i18n: {
 					structure: "multiple_folders",
-					locales: ["en", "it"],
+					locales: ["en", "it", "es"],
 					default_locale: "en",
 				},
 				collections: [
@@ -133,8 +133,8 @@ export default defineConfig({
 			includeAssets: ["favicon.svg"],
 			registerType: "autoUpdate",
 			manifest: {
-				name: "Astros - Starter Template for Astro with Tailwind CSS",
-				short_name: "Astros",
+				name: "Astar LATAM DAO",
+				short_name: "Astar LATAM",
 				theme_color: "#ffffff",
 				icons: [
 					{
