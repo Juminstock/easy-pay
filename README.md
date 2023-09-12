@@ -1,2 +1,2 @@
 <h1 align="center">Astar Network LATAM DAO ⚡</h1>
-Acá se aloja
+Acá se aloja el repositorio
