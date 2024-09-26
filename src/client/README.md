@@ -1,1 +1,0 @@
-# EasyPay - contracts 🧑🏻‍💻
