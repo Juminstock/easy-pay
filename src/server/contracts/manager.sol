@@ -3,7 +3,7 @@ pragma solidity ^0.8.27;
 
 import "@openzeppelin/contracts/access/Ownable.sol";
 
-contract Banker is Ownable {
+contract Manager is Ownable {
 
     event UserDeposit(address userAccount, uint amount);
     event UserSaving(address userAccount, uint amount);
@@ -13,4 +13,6 @@ contract Banker is Ownable {
         string nickname;
         uint userId;
     }
+
+    mapping (address => uint) public balances;
 }
