@@ -5,14 +5,15 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract Manager is Ownable {
 
-    event UserDeposit(address userAccount, uint amount);
-    event UserSaving(address userAccount, uint amount);
-    event UserInvest(address userAccount, uint amount);
+    constructor(address initialOwner) Ownable(initialOwner) {}
 
-    struct User {
-        string nickname;
-        uint userId;
+    modifier validAmount(uint _amount) {
+        require(_amount <= address(this).balance, "Insufficient balance in contract");
+        _;
     }
 
-    mapping (address => uint) public balances;
+    function makeWithdraw(uint _amount) external onlyOwner() validAmount(_amount) {
+        address payable _owner = payable(owner());
+        _owner.transfer(address(this).balance);
+    }
 }
